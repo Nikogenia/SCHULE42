@@ -18,9 +18,9 @@ entsprechen. Gebrauch auf eigene Verantwortung!
 
 ### Inhalt
 
-- **M** Mathematik
-	- **M5** Jahrgangsstufe 5
-		- [**M5.1**](</M Mathematik/M5 Jahrgangsstufe 5/M5.1 Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen.md>) Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen
+- [**M**](</M Mathematik/>) Mathematik
+	- [**M5**](</M Mathematik/M5 Jahrgangsstufe 5/>) Jahrgangsstufe 5
+		- [**M5.1**](</M Mathematik/M5 Jahrgangsstufe 5/M5.1 Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen.pdf>) Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen
 	- **M6** Jahrgangsstufe 6
 	- **M7** Jahrgangsstufe 7
 	- **M8** Jahrgangsstufe 8
@@ -34,15 +34,16 @@ entsprechen. Gebrauch auf eigene Verantwortung!
 
 Alle Mindmaps wurden mit [Obsidian](https://obsidian.md/) und dem zugehörigen [Excalidraw](https://excalidraw.com/) Plugin
 gestaltet. Die Dateien finden sich im .md Format mit dem komprimierten JSON
-des Excalidraw-Projektes. Für eine Bearbeitung ist das verwendete Plugin somit notwendig.
+des Excalidraw-Projektes im jeweiligen Ordner wieder. Für eine Bearbeitung ist das
+verwendete Plugin somit notwendig.
 
-Exporte werden in Form von Bilddateien im .png Format, Vektordateien im
-.svg Format und Dokumenten im .pdf Format bereitgestellt. Letztere eignen sich
-am besten zum Drucken. Zudem liegt jede Mindmap jeweils sowohl im hellen
-als auch dunklen Modus zur Verfügung.
+Exporte werden in Form von **Bilddateien** im **.png** Format, **Vektordateien** im
+**.svg** Format und **Dokumenten** im **.pdf** Format bereitgestellt. Letztere eignen sich
+am besten zum Drucken. Zudem steht jede Mindmap jeweils sowohl im **hellen**
+als auch **dunklen** Modus zur Verfügung.
 
 Verwendete Bilder und andere Ressourcen finden sich im zugehörigen Ordner Quellen
-der Jahrgangsstufe. 
+der Jahrgangsstufe.
 
 ### Kontakt
 
