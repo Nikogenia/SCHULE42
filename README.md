@@ -21,6 +21,7 @@ entsprechen. Gebrauch auf eigene Verantwortung!
 - [**M**](</M Mathematik/>) Mathematik
 	- [**M5**](</M Mathematik/M5 Jahrgangsstufe 5/>) Jahrgangsstufe 5
 		- [**M5.1**](</M Mathematik/M5 Jahrgangsstufe 5/M5.1 Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen.pdf>) Natürliche Zahlen und ihre Erweiterung zu den ganzen Zahlen
+		- [**M5.2**](</M Mathematik/M5 Jahrgangsstufe 5/M5.2 Addition und Subtraktion natürlicher und ganzer Zahlen.pdf>) Addition und Subtraktion natürlicher und ganzer Zahlen
 	- **M6** Jahrgangsstufe 6
 	- **M7** Jahrgangsstufe 7
 	- **M8** Jahrgangsstufe 8
